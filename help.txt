@@ -1,0 +1,5 @@
+1  --> file's content must be within string limit
+2  --> input will stop at first blank spac or new line ....etc
+3  --> for multi space input use instruction give in encoder file
+try :
+(binary) < input > output
